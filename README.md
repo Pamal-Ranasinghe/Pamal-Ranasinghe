@@ -44,13 +44,14 @@
 <img alt="java" width="30px" src="https://img.icons8.com/color/240/000000/java-coffee-cup-logo--v1.png"/>
 <!-- <img alt="react-native" width="30px" src="https://img.icons8.com/color/240/000000/react-native.png"/> -->
 <img alt="flask" width="30px" src="https://img.icons8.com/nolan/50/flask.png"/>
-<!-- <img alt="flutter" width="30px" src="https://img.icons8.com/color/240/000000/flutter.png"/> -->
+<img alt="flutter" width="30px" src="https://img.icons8.com/color/240/000000/flutter.png"/>
 <!-- <img alt="angularjs" width="30px" src="https://img.icons8.com/color/240/000000/angularjs.png"/> -->
 <!-- <img alt="vue-js" width="30px" src="https://img.icons8.com/color/240/000000/vue-js.png"/> -->
 <br />
 <img alt="Node.js" width="30px" src="https://img.icons8.com/color/240/000000/nodejs.png">
 <img alt="mongodb" width="30px" src="https://img.icons8.com/color/240/000000/mongodb.png">
 <img alt="postgres" width="30px" src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
+<imgalt="mysql" width="30px" src="https://img.icons8.com/fluency/48/000000/mysql-logo.png"/>
 <img alt="Firebase" width="30px" src="https://img.icons8.com/color/240/000000/firebase.png"/>
 <br />
 <img alt="Git" width="30px" src="https://img.icons8.com/color/240/000000/git.png">
