@@ -32,7 +32,7 @@
   <img alt="linux" width="30px" src="https://img.icons8.com/color/96/000000/linux.png">
 <br />
 <img alt="visual studio code" width="30px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" />
-<img alt="intellij" width="30px" src="https://img.icons8.com/fluent/240/000000/intellij-idea.png" />
+<img alt="intellij" src="https://img.icons8.com/color/48/000000/intellij-idea.png"/>
 <img alt="pycharm" src="https://img.icons8.com/color/48/000000/pycharm.png"/>
 <!-- <img alt="PyCharm" width="30px" src="https://img.icons8.com/fluent/240/000000/PyCharm.png" /> -->
 <br />
@@ -49,7 +49,7 @@
 <br />
 <img alt="Node.js" width="30px" src="https://img.icons8.com/color/240/000000/nodejs.png">
 <img alt="mongodb" width="30px" src="https://img.icons8.com/color/240/000000/mongodb.png">
-<img alt="postgres" width="30px" src="https://img.icons8.com/color/240/000000/postgres.png">
+<img alt="postgres" src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
 <img alt="Firebase" width="30px" src="https://img.icons8.com/color/240/000000/firebase.png"/>
 <img alt="Git" width="30px" src="https://img.icons8.com/color/240/000000/git.png">
 <br />
