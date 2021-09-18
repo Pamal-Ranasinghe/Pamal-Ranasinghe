@@ -45,6 +45,8 @@
 <!-- <img alt="react-native" width="30px" src="https://img.icons8.com/color/240/000000/react-native.png"/> -->
 <img alt="flask" width="30px" src="https://img.icons8.com/nolan/50/flask.png"/>
 <img alt="flutter" width="30px" src="https://img.icons8.com/color/240/000000/flutter.png"/>
+<img width="30px" src="https://img.icons8.com/fluency/50/000000/laravel.png"/>
+<img width="30px" src="https://img.icons8.com/officel/16/000000/php-logo.png"/>
 <!-- <img alt="angularjs" width="30px" src="https://img.icons8.com/color/240/000000/angularjs.png"/> -->
 <!-- <img alt="vue-js" width="30px" src="https://img.icons8.com/color/240/000000/vue-js.png"/> -->
 <br />
