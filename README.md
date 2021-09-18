@@ -41,7 +41,9 @@
 <img alt="ReactJs" width="30px" src="https://img.icons8.com/color/240/000000/react-native.png"/>
 <!-- <img alt="angularjs" width="30px" src="https://img.icons8.com/color/240/000000/angularjs.png"/> -->
 <!-- <img alt="vue-js" width="30px" src="https://img.icons8.com/color/240/000000/vue-js.png"/> -->
+<br />
 <img alt="Node.js" width="30px" src="https://img.icons8.com/color/240/000000/nodejs.png">
+<img alt="mongodb" width="30px" src="https://img.icons8.com/color/240/000000/mongodb.png">
 <img alt="Firebase" width="30px" src="https://img.icons8.com/color/240/000000/firebase.png"/>
 <img alt="Git" width="30px" src="https://img.icons8.com/color/240/000000/git.png">
 <br />
