@@ -42,7 +42,7 @@
 <img alt="python" width="30px" src="https://img.icons8.com/color/240/000000/python.png">
 <img alt="ReactJs" width="30px" src="https://img.icons8.com/color/240/000000/react-native.png"/>
 <img alt="java" width="30px" src="https://img.icons8.com/color/240/000000/java-coffee-cup-logo--v1.png"/>
-<img alt="react-native" width="30px" src="https://img.icons8.com/color/240/000000/react-native.png"/>
+<!-- <img alt="react-native" width="30px" src="https://img.icons8.com/color/240/000000/react-native.png"/> -->
 <img alt="flask" width="30px" src="https://img.icons8.com/ios-filled/50/000000/flask.png"/>
 <!-- <img alt="flutter" width="30px" src="https://img.icons8.com/color/240/000000/flutter.png"/> -->
 <!-- <img alt="angularjs" width="30px" src="https://img.icons8.com/color/240/000000/angularjs.png"/> -->
