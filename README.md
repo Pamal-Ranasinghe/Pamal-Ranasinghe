@@ -32,27 +32,31 @@
   <img alt="linux" width="30px" src="https://img.icons8.com/color/96/000000/linux.png">
 <br />
 <img alt="visual studio code" width="30px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" />
+<img alt="intellij" width="30px" src="https://img.icons8.com/fluent/240/000000/intellij-idea.png" />
+<img alt="pycharm" src="https://img.icons8.com/color/48/000000/pycharm.png"/>
 <!-- <img alt="PyCharm" width="30px" src="https://img.icons8.com/fluent/240/000000/PyCharm.png" /> -->
 <br />
-<img alt="html5" width="30px" src="https://img.icons8.com/color/240/000000/html-5.png">
-<img alt="css3" width="30px" src="https://img.icons8.com/color/240/000000/css3.png">
+<!-- <img alt="html5" width="30px" src="https://img.icons8.com/color/240/000000/html-5.png">
+<img alt="css3" width="30px" src="https://img.icons8.com/color/240/000000/css3.png"> -->
 <img alt="javascript" width="30px" src="https://img.icons8.com/color/240/000000/javascript.png" />
 <img alt="python" width="30px" src="https://img.icons8.com/color/240/000000/python.png">
 <img alt="ReactJs" width="30px" src="https://img.icons8.com/color/240/000000/react-native.png"/>
+<img alt="java" width="30px" src="https://img.icons8.com/color/240/000000/java-coffee-cup-logo--v1.png"/>
+<img alt="react-native" width="30px" src="https://img.icons8.com/color/240/000000/react-native.png"/>
+<img alt="flutter" width="30px" src="https://img.icons8.com/color/240/000000/flutter.png"/>
 <!-- <img alt="angularjs" width="30px" src="https://img.icons8.com/color/240/000000/angularjs.png"/> -->
 <!-- <img alt="vue-js" width="30px" src="https://img.icons8.com/color/240/000000/vue-js.png"/> -->
 <br />
 <img alt="Node.js" width="30px" src="https://img.icons8.com/color/240/000000/nodejs.png">
 <img alt="mongodb" width="30px" src="https://img.icons8.com/color/240/000000/mongodb.png">
+<img alt="postgres" width="30px" src="https://img.icons8.com/color/240/000000/postgres.png">
 <img alt="Firebase" width="30px" src="https://img.icons8.com/color/240/000000/firebase.png"/>
 <img alt="Git" width="30px" src="https://img.icons8.com/color/240/000000/git.png">
 <br />
 <img alt="android" width="30px" src="https://img.icons8.com/color/240/000000/android-os.png"/>
 <!-- <img alt="ios" width="30px" src="https://img.icons8.com/color/240/000000/ios-logo.png"/> -->
 <br />
-<img alt="java" width="30px" src="https://img.icons8.com/color/240/000000/java-coffee-cup-logo--v1.png"/>
-<img alt="react-native" width="30px" src="https://img.icons8.com/color/240/000000/react-native.png"/>
-<img alt="flutter" width="30px" src="https://img.icons8.com/color/240/000000/flutter.png"/>
+
 <!-- <img alt="swift" width="30px" src="https://img.icons8.com/color/240/000000/swift.png"/> -->
 <br />
 <img alt="Figma" width="30px" src="https://img.icons8.com/fluent/240/000000/figma.png"/>
