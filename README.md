@@ -82,7 +82,7 @@
 
 <!-- [linkedin]: https://www.linkedin.com/in/didula-lakminda/
 [facebook]: https://www.facebook.com/dmax.lakminda/ -->
-<!-- [hackerank]: https://www.hackerrank.com/didulalakminda31
+<!-- [hackerank]: https://www.hackerrank.com/didulalakminda31 -->
 
 <br />
 
