@@ -28,7 +28,7 @@
 ### Languages and Tools 🛠️
 
 <p><img alt="windows" width="30px" src="https://img.icons8.com/color/240/000000/windows-10.png">
-<!--   <img alt="macos" width="30px" src="https://img.icons8.com/officel/160/000000/mac-logo.png"> -->
+  <img alt="macos" width="30px" src="https://img.icons8.com/officel/160/000000/mac-logo.png">
   <img alt="linux" width="30px" src="https://img.icons8.com/color/96/000000/linux.png">
 <br />
 <img alt="visual studio code" width="30px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" />
