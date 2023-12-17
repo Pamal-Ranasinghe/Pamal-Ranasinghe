@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Pamal Ranasinghe <img src="https://img.icons8.com/color/96/000000/sri-lanka.png" height="40"/>
 
-- 🌱 I’m currently learning Python and Flask.
-- 🥅 2021 Goals: Contribute and complete more projects.
+- 🌱 I’m currently learning SpringBoot and Angular.
+- 🥅 2023 Goals: Contribute and complete more projects.
 - ⚡ Fun fact: I love to play cricket and video games.
 
 
